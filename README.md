@@ -1,2 +1,1 @@
 # WURCdrone
-mythic repo pull
