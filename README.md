@@ -1,4 +1,4 @@
-# WURCdrone
+# WURCdrone FL24
 
 mav_init.sh - Run MAVProxy in normal mode
 
